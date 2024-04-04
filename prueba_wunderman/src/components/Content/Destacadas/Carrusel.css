@@ -1,0 +1,88 @@
+#carrusel_container {
+  display: flex;
+  padding-top: 100px;
+  flex-direction: column;
+}
+
+/* #carrusel {
+  position: relative;
+  left: 7%;
+} */
+
+#carrusel_item {
+  left: 7.5%;
+}
+
+#img_container {
+  display: flex;
+}
+
+#carrusel_img {
+  z-index: 1;
+}
+
+#carrusel_caption {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 0;
+  bottom: 10rem;
+  left: 18%;
+  margin-top: 10px;
+  border: 3px solid #825af0;
+  background-color: rgb(247 246 246 / 48%);
+}
+
+#carrusel_label {
+  color: black;
+}
+
+#carrusel_text {
+  color: black;
+  width: 70%;
+}
+
+#carrusel_card {
+  width: 10rem;
+  background-color: #825af0;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+#card_img {
+  width: 20%;
+  padding-left: 5px;
+}
+
+#card_body {
+  padding-top: 14px;
+  padding-bottom: 10px;
+  padding-left: 1px;
+  padding-right: 5px;
+}
+
+#carrusel_buttons {
+  display: flex;
+  position: absolute;
+  top: 75%;
+  left: 45%;
+}
+
+#carrusel_button {
+  margin-left: 25px;
+  margin-right: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#button_txt {
+  color: white;
+  font-size: small;
+}
+
+#button_txt:hover {
+  color: #825af0;
+}

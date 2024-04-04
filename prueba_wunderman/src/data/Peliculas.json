@@ -1,0 +1,84 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "Shrek",
+      "descripcion": "Un caballero malvado exilia a las criaturas de un cuento de hadas al pantano de un ogro gruñón, quien en su afán de recuperar su territorio hace un pacto para conseguir que una bella princesa acceda a ser la novia del caballero.",
+      "img": "Shrek",
+      "puntuacion": "7.9",
+      "trailer": "https://www.youtube.com/watch?v=TMIsxOsuwNA&ab_channel=MarvelComics-AnimaEstudios"
+    },
+    {
+      "id": 2,
+      "nombre": "Viuda Negra",
+      "descripcion": "El thriller de espías de Marvel Studios presenta la historia de Natasha Romanoff, también conocida como Black Widow. Ella se enfrenta a lo más oscuro de sus cuentas pendientes cuando surge una peligrosa conspiración que tiene lazos con su pasado.",
+      "img": "BlackWidow",
+      "puntuacion": "6.7",
+      "trailer": "https://www.youtube.com/watch?v=xY1eqVSSuus&ab_channel=MarvelEspa%C3%B1a"
+    },
+    {
+      "id": 3,
+      "nombre": "Huye!",
+      "descripcion": "Un joven afroamericano visita la finca familiar de su noviablanca, pero termina dándose cuenta que la verdadera razón por la que fue invitado es más siniestra de lo que imaginaba. En un principio, Chris percibe el comportamiento de la familia demasiado complaciente y cree que se debe a los nervios de lidiar con la relación interracial de su hija, pero conforme el fin de semana avanza, una serie de descubrimientos inquietantes lo llevan a enfrentarse a una verdad que jamás imaginó.",
+      "img": "GetOut",
+      "puntuacion": "7.8",
+      "trailer": "https://www.youtube.com/watch?v=xGhKr2uNkI4&ab_channel=VeacineEstrenos"
+    },
+    {
+      "id": 4,
+      "nombre": "Batman",
+      "descripcion": "",
+      "img": "Batman",
+      "puntuacion": "7.9",
+      "trailer": ""
+    },
+    {
+      "id": 5,
+      "nombre": "El Padrino",
+      "descripcion": "",
+      "img": "Godfather",
+      "puntuacion": "7.9",
+      "trailer": ""
+    },
+    {
+      "id": 6,
+      "nombre": "Harry Potter",
+      "descripcion": "",
+      "img": "HarryPotter",
+      "puntuacion": "7.9",
+      "trailer": ""
+    },
+    {
+      "id": 7,
+      "nombre": "El viaje de Chihiro",
+      "descripcion": "",
+      "img": "SpiritedAway",
+      "puntuacion": "7.9",
+      "trailer": ""
+    },
+    {
+      "id": 8,
+      "nombre": "La familia de mi novia",
+      "descripcion": "",
+      "img": "MeetTheParents",
+      "puntuacion": "7.9",
+      "trailer": ""
+    },
+    {
+      "id": 9,
+      "nombre": "Interestelar",
+      "descripcion": "",
+      "img": "Interestellar",
+      "puntuacion": "7.9",
+      "trailer": ""
+    },
+    {
+      "id": 10,
+      "nombre": "Sonrie",
+      "descripcion": "",
+      "img": "Smile",
+      "puntuacion": "7.9",
+      "trailer": ""
+    }
+  ]
+}

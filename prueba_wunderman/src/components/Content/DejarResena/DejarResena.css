@@ -1,0 +1,95 @@
+#resena_txt {
+  color: white;
+  margin-left: 60px;
+}
+
+#form_container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 20px;
+  justify-content: center;
+}
+
+#resena_form {
+  width: 30%;
+}
+
+#form_label {
+  color: white;
+}
+
+#form_input {
+  border-radius: 24px 24px 24px 24px;
+  border: 2px solid #825af0;
+}
+
+#form_resena,
+#form_email,
+#form_nombre {
+  color: white;
+}
+
+#form_buttons {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#finalizar_button {
+  background-color: #242424;
+  border-color: #825af0;
+  border-width: 2px;
+  width: 40%;
+}
+
+#reiniciar_button {
+  background-color: #242424;
+  border: none;
+  font-weight: 100;
+}
+
+#reiniciar_button:hover,
+#finalizar_button:hover {
+  color: #825af0;
+}
+
+.modal {
+  display: flex !important;
+  justify-content: center;
+}
+
+#modal_success {
+  margin: 0;
+  width: 100%;
+  height: 80%;
+}
+
+.modal-content {
+  background-color: #242424 !important;
+  color: white !important;
+  align-items: center;
+  flex-direction: column;
+  height: 80%;
+  width: 100%;
+}
+
+#modal_body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#modal_img {
+  width: 240px;
+  height: 240px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#txt_resena{
+  color: darkgray;
+}
+
+#cerrar_button {
+  margin-top: 40px;
+}
